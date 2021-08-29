@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/venombot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shafat21/Symphony)
 
 ![logo](https://i.postimg.cc/brBwzPHV/circle-cropped-2.png)
 
@@ -63,7 +63,7 @@ Currently available locales are:
 - Thai (th)
 - Turkish (tr)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
+
 
 ## 📝 Features & Commands
 
