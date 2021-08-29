@@ -1,3 +1,6 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/venombot)
+
+![logo](https://i.postimg.cc/brBwzPHV/circle-cropped-2.png)
 
 # 🤖 venomBot (Discord Music Bot)
 > venomBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
